@@ -1,2 +1,2 @@
 welcome to devops world
-hello world
+hello all welcome to init
